@@ -11,6 +11,4 @@ This project has been developed using Machine Learning algorithms. KMeans cluste
 
 ![image](https://user-images.githubusercontent.com/78315217/141615001-08af8f80-ef2a-4f97-bf9b-02d6e052537d.png)
 
-
-
-
+Please Run the .ipynb file if you want to test the model. We could not able to finish the working webapp so t=we are just submitting the our Model.
