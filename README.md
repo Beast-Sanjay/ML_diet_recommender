@@ -1,4 +1,7 @@
 # ML_diet_recommender
+
+Elevator pitch is linked here : https://github.com/Beast-Sanjay/ML_diet_recommender/blob/main/REVA%20Hack%2021%20-%20Elevator%20Pitch%20Template%20(1).docx
+
 This is the our ML project for Reva Hackathon. 
 The recommendation process has basically three stages that are Information Collection Phase, Learning Phase and Recommendation Phase.
 
@@ -10,4 +13,4 @@ This project has been developed using Machine Learning algorithms. KMeans cluste
 
 
 
-Elevator pitch is linked here : https://github.com/Beast-Sanjay/ML_diet_recommender/blob/main/REVA%20Hack%2021%20-%20Elevator%20Pitch%20Template%20(1).docx
+
